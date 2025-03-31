@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá sou Guilherme Ferrara, tenho 23 anos e sou estudante de Engenharia Elétrica habilitação em Sistemas Eletrônicos pela UFJF. Estou usando o GitHub como forma de aprendizado e também para expor os projetos realizados em ambiente acadêmico, como sistemas embarcados, hardwares programados em FPGA, e também projetos de VLSI de circuitos integrados digitais do meu treinamento profissional acadêmico. Estou sempre disposto a expandir e aprimorar meus conhecimentos nas áreas de tecnologia.
 
 <!--
 **Guilhermefjp/Guilhermefjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
